@@ -51,7 +51,7 @@
              Test Status : Passed ✅
 
  
- ## MyRecipetest Senaryoları (Bu test class'ında LoginPage ve HomePage kullanılmıştır.)
+ ## MyRecipeTest Senaryoları (Bu test class'ında LoginPage ve HomePage kullanılmıştır.)
   ##### Scenario: Nefis Yemek Tarifleri Taslağa Tarif Ekleme Testi  ->MyRecipeTest
   
 
