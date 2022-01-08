@@ -68,7 +68,6 @@
 
  ![searchRecipeTestFoto](https://user-images.githubusercontent.com/65242155/148582264-b436abec-62a6-4617-8caa-9c5bca6845b7.png)
 
-       Test Status : Passed ✅
   
  #### Test 1: searchItemRecipeTest()
  
